@@ -1,31 +1,13 @@
 {
-  "id": 101,
-  "password": "admin",
+  "id": 100,
+  "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
   "name": "Mahadi Hassan",
-  "username": "mahadi_dev",
+  "username": "@drunkenpoet",
   "email": "mahadi@example.com",
   "phone": "+8801700000000",
-  "is_active": true,
-  "role": "developer",
+  "is_admin": true,
+  "role": "Owner",
   "profile": {
-    "age": 24,
-    "gender": "male",
-    "avatar_url": "https://example.com/images/mahadi.jpg"
-  },
-  "address": {
-    "street": "Mirpur Road",
-    "city": "Dhaka",
-    "postal_code": "1216",
-    "country": "Bangladesh"
-  },
-  "skills": [
-    "Android",
-    "Java",
-    "HTML",
-    "JavaScript"
-  ],
-  "social_links": {
-    "github": "https://github.com/mahadi",
-    "linkedin": "https://linkedin.com/in/mahadi"
+    "age": 18,
+    "gender": "male"
   }
-}
