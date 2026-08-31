@@ -2,14 +2,10 @@
   "id": 101,
   "password": "admin",
   "name": "Mahadi Hassan",
-  "username": "mahadi_dev",
+  "username": "drunken_poet",
   "email": "mahadi@example.com",
   "phone": "+8801700000000",
-  "is_active": true,
-  "role": "developer",
-  "profile": {
-    "age": 24,
-    "gender": "male",
-    "avatar_url": "https://example.com/images/mahadi.jpg"
-  }
+  "is_admin": true,
+  "is_user": false,
+  "role": "developer"
 }
