@@ -1,1 +1,14 @@
-sworm
+{
+  "id": 101,
+  "password": "admin",
+  "name": "Mahadi Hassan",
+  "username": "mahadi_dev",
+  "email": "mahadi@example.com",
+  "phone": "+8801700000000",
+  "is_active": true,
+  "role": "developer",
+  "profile": {
+    "age": 24,
+    "gender": "male",
+    "avatar_url": "https://example.com/images/mahadi.jpg"
+  }
